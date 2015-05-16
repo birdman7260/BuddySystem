@@ -51,13 +51,13 @@ crashlytics-build.properties
 ### Android template
 # Built application files
 *.apk
-*.ap_
+#*.ap_
 
 # Files for the Dalvik VM
 *.dex
 
 # Java class files
-*.class
+#*.class
 
 # Generated files
 bin/
